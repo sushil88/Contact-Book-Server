@@ -1,0 +1,5 @@
+server=":5000"
+secret="secret-key"
+
+[database]
+connectionstring="<postgress connection string>"
